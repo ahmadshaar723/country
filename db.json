@@ -1,0 +1,15 @@
+{
+    "students": [
+      { "id": 1, "name": "ahmad" },
+      { "id": 2, "name": "hazar" },
+      { "id": 3, "name": "issa" },
+      { "id": 4, "name": "wael" },
+      { "id": 5, "name": "abo ryad" },
+      { "id": 6, "name": "walid" },
+      { "id": 7, "name": "mamod" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
